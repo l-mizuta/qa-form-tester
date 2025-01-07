@@ -23,4 +23,4 @@ Este projeto automatiza o teste de um formulário HTML simples usando o Selenium
 
 1. Clone o repositório:
    ```bash
-   git clone <https://github.com/l-mizuta/qa-form-tester>
+   git clone https://github.com/l-mizuta/qa-form-tester
